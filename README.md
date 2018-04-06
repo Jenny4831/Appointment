@@ -1,7 +1,7 @@
 # Appointment #
 Data Structures to store appointments in order to achieve efficient data retrieving and storing. 
 
-##Features##
+## Features ##
 Each Appointment object has a Description(String), Location(String) and Starttime(java.util.Date).
 Assignment.java implements Calendar interface. Descriptions for the methods can be found in Calendar.java.
 Methods included are:
